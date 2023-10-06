@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seconddayapp", "seconddayapp\seconddayapp.csproj", "{110BD502-680A-4C4C-AE6B-F9A3CC283B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110BD502-680A-4C4C-AE6B-F9A3CC283B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110BD502-680A-4C4C-AE6B-F9A3CC283B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110BD502-680A-4C4C-AE6B-F9A3CC283B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110BD502-680A-4C4C-AE6B-F9A3CC283B29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66B2F2C9-E725-4BA0-BB7A-7E695B5C16A4}
+	EndGlobalSection
+EndGlobal
